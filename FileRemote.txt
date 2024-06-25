@@ -1,0 +1,1 @@
+Test of adding remote file directly on the repo
